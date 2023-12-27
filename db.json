@@ -1,5 +1,11 @@
 {
     "users":[
-        
+        {
+            "id": "1",
+            "name": "Sergey",
+            "surname": "Belousov",
+            "photo-url": "",
+            "balance": "100"
+        }
     ]
 }
